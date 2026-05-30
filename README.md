@@ -7,5 +7,4 @@ Example usage in markdown:
 ```
 - Argument 1: SQLite file
 - Argument 2: SQLite Query
-- Argument 1: SQLite file
-- Argument 2: SQLite Query
+

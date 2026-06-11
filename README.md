@@ -1,4 +1,4 @@
-# yellow-sqlitequery
+# SQLite Query
 SQLite Query Extension for Datenstrom Yellow
 
 An extension for [Datenstrom Yellow](https://datenstrom.se/yellow/) CMS that allows you to execute SQLite queries directly within your Markdown content and automatically renders the results into a clean HTML table.
